@@ -1,0 +1,5 @@
+.player {
+  display: flex;
+  background-color: #05ffb0;
+  padding: 75px;
+}
